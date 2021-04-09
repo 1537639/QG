@@ -1,0 +1,2 @@
+C:\Users\1537639\Desktop\QG\DX11_2\Project2\Project2\HLSL\Triangle_PS.cso
+C:\Users\1537639\Desktop\QG\DX11_2\Project2\Project2\HLSL\Triangle_VS.cso
